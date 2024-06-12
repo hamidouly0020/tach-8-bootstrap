@@ -1,0 +1,16 @@
+.card-body{
+    border: none;
+}
+progress {
+    vertical-align: baseline;
+}
+#contact{
+    background-image: url('R.jpeg');
+    background-size: cover;
+}
+textarea{
+    height: 250px;
+}
+input{
+    height: 70px;
+}
